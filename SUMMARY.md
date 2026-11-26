@@ -44,6 +44,7 @@
   * [브랜드 플로팅](guide/premium-pakage/brand-floating.md)
   * [포인트탭 - 퀴즈 미션](guide/premium-pakage/quiz.md)
   * [D-Day 미션](guide/premium-pakage/d-day.md)
+  * [부동산홈 팝업](guide/premium-pakage/land-home-popup.md)
 * [금융패키지](guide/financial-package/README.md)
   * [브릿지 페이지](guide/financial-package/bridge-page.md)
   * [상단 코너 플래그 배너](guide/financial-package/top-corner-flag-banner.md)
@@ -59,4 +60,3 @@
   * [푸시 알림](guide/premium-pakage/push-alert.md)
 * [머니브리핑 빅배너](guide/money-briefing-bigbanner.md)
 * [네이버쇼핑 CPS](guide/navershopping-cps.md)
-* [부동산홈 팝업](guide/land-home-popup.md)

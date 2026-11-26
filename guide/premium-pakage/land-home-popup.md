@@ -11,4 +11,4 @@
 * 로고 이미지 가로형. 사이즈 free
 * 하단 이미지 329\*130
 
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
